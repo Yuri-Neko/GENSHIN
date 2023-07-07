@@ -1,8 +1,24 @@
-<h1 align="center">Kiizuha's Genshin Stats</h1>
+<h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 07, 2023 11:47 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 07, 2023 19:22 +0700</u> (🤖automated)
 </h3>
 <br />
+
+<h2>Info</h2>
+<table>
+  <tr>
+    <td>Nickname</td>
+    <td>kyou-chan</td>
+  </tr>
+  <tr>
+    <td>Adventure Rank</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td>Asia</td>
+  </tr>
+</table>
 
 <h2>Daily Rewards</h2>
 <table>
