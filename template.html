@@ -1,6 +1,22 @@
-<h1 align="center">Kiizuha's Genshin Stats</h1>
+<h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖automated)</h3>
 <br>
+
+<h2>Info</h2>
+<table>
+        <tr>
+            <td>Nickname</td>
+            <td>{{ user.info.nickname }}</td>
+        </tr>
+        <tr>
+            <td>Adventure Rank</td>
+            <td>{{ user.info.level }}</td>
+        </tr>
+        <tr>
+            <td>Server</td>
+            <td>{{ user.info.server.replace("os_", "").title() }}</td>
+        </tr>
+</table>
 
 <h2>Daily Rewards</h2>
 <table>
