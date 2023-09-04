@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 20, 2023 19:21 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 04, 2023 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -12,11 +12,11 @@
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Server</td>
-    <td>Asia</td>
+    <td></td>
   </tr>
 </table>
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -36,55 +36,59 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>202</td>
+    <td>213</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>86</td>
+    <td>110</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>192</td>
+    <td>212</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>62</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>22</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>13</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>hydroculi</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>372</td>
+    <td>390</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>397</td>
+    <td>410</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>105</td>
+    <td>107</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>5</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -95,6 +99,7 @@
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>Fontaine</th>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
     <th>The Chasm</th>
@@ -105,6 +110,14 @@
     <th>Mondstadt</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -176,7 +189,21 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/8/" width="80" />
+            <img src="https://progress-bar.dev/4/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/10/" width="80" />
           </td>
         </tr>
         <tr>
@@ -246,7 +273,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/45/" width="80" />
+            <img src="https://progress-bar.dev/46/" width="80" />
           </td>
         </tr>
         <tr>
@@ -260,7 +287,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/38/" width="80" />
+            <img src="https://progress-bar.dev/39/" width="80" />
           </td>
         </tr>
         <tr>
@@ -297,76 +324,29 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>88</td>
+    <td>89</td>
   </tr>
   <tr>
     <td>Visitors</td>
     <td>0</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
-<table>
-  <tr>
-    <td>Season</td>
-    <td>73</td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td>3-3</td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td>18</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td></td>
-  </tr>
-</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6025 (rate 34)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4378324 (rate 46)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2192 (37%)<br />Quests: 1260 (21%)<br />Events: 804 (14%)<br />Mail:
-      660 (11%)<br />Daily Activity: 580 (9%)<br />Spiral Abyss: 500 (8%)<br />Other:
-      29 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -391,7 +371,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/b57f1129103043b00485fc5aad93e8f2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/90240fffb2498fe90fe6c2927e696233.png"
           />
         </p>
       </td>
@@ -474,7 +454,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f6bb57c6abbf90b29694162f37dc276b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7f322a1e84f903541cd9eb73deb791d1.png"
           />
         </p>
       </td>
@@ -557,7 +537,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/740212ebc5a0740959b0a7103c3243ca.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7fe3b48ce49315f790e31a95aacfe78c.png"
           />
         </p>
       </td>
@@ -579,7 +559,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -619,6 +599,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Barbara</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Barbara</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0ade904e2e855caa6e5a4baabd04467d.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>5 x Traveling Doctor<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>The Widsith</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Jean</b></summary>
   <br />
   <table>
@@ -637,7 +697,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1d498cd515e7abd3f485dc8a7dbbfdf8.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0195e3ef6ee3201c000c94907df40df8.png"
           />
         </p>
       </td>
@@ -717,7 +777,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/01a2b06931a7522b6e7d7c8d6d74d5ca.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/80f5c7acdac81ab55354dff564af98ba.png"
           />
         </p>
       </td>
@@ -797,7 +857,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/939fde1485579b94ff5f9d4428a0648a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c5d86307b5682664eebe92a5e35578f0.png"
           />
         </p>
       </td>
@@ -811,7 +871,7 @@
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>Hydro</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -880,7 +940,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/5a74568c0b6530a4a12679bb55bdc26b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1eaf485057b0165dac1f9a44ac66437a.png"
           />
         </p>
       </td>
@@ -945,6 +1005,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Dehya</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Dehya</h3></th>
+      <th><h3 align="center">Favonius Greatsword</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f734ab19603a41d8df6a41e18ce3293d.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>3 x Martial Artist<br />2 x Berserker<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Greatsword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Lisa</b></summary>
   <br />
   <table>
@@ -963,7 +1103,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f6bb57c6abbf90b29694162f37dc276b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7f322a1e84f903541cd9eb73deb791d1.png"
           />
         </p>
       </td>
@@ -1025,86 +1165,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Barbara</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Barbara</h3></th>
-      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f2259d611a852ef827bb5265244bc3b8.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>5 x Traveling Doctor<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Thrilling Tales of Dragon Slayers</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Amber</b></summary>
   <br />
   <table>
@@ -1123,7 +1183,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/123fc7b2d68a9024bfd427b61fbe0745.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ef13068f3238c9320a508ecd98eb00b9.png"
           />
         </p>
       </td>
@@ -1206,7 +1266,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/053bd5deeef089d9b0a568c60407f3e2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/709f8019161366c8d7d290ab8cf13f49.png"
           />
         </p>
       </td>
@@ -1286,7 +1346,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/6c24f13fe14274535105696ee91bcab2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1b236497c28b0ee5a4dc96c088f04a8e.png"
           />
         </p>
       </td>
@@ -1312,7 +1372,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -1366,7 +1426,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3496af34d01c61850a71a36f98557eea.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/e6b50278c38ff82f40ffd12ec74bd623.png"
           />
         </p>
       </td>
@@ -1446,7 +1506,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
           />
         </p>
       </td>
@@ -1526,7 +1586,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/463b226ec97e453c9f58ed35735eeec8.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/06ba3d2261cc0a1636ec78778875431e.png"
           />
         </p>
       </td>
@@ -1606,7 +1666,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3917aba6df3a7477063bdfedd42e20ae.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/af06ce5d5110ab8bc048e75a530f9ba7.png"
           />
         </p>
       </td>
@@ -1688,7 +1748,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/92ff0f629676c685e67c466dcc0b3813.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c25e82268fe58799ddc2ef2b6486a8ad.png"
           />
         </p>
       </td>
@@ -1768,7 +1828,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/e635f1573448ad0a3d2dd66b57f9f8ab.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0b8723ee7106508aae5f7c68ef73927f.png"
           />
         </p>
       </td>
@@ -1848,7 +1908,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/939fde1485579b94ff5f9d4428a0648a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/c5d86307b5682664eebe92a5e35578f0.png"
           />
         </p>
       </td>
@@ -1928,7 +1988,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/4aa5f29cfb2cbcc92c168987901fca21.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/cc463c86f619282fd0ad0b73bc4aa98c.png"
           />
         </p>
       </td>
@@ -1990,86 +2050,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Dehya</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Dehya</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Waster Greatsword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Razor</b></summary>
   <br />
   <table>
@@ -2088,7 +2068,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
           />
         </p>
       </td>
@@ -2168,7 +2148,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e37b70c672f2123bf26336ac2cfd501.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4f063ffd1c7147b2f98ca9641b6b5fbe.png"
           />
         </p>
       </td>
@@ -2248,7 +2228,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/292e999951d07694ae986994c6bc561b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/364dbb3fa5198e58037c89c229832c47.png"
           />
         </p>
       </td>
@@ -2263,6 +2243,86 @@
           <tr>
             <td>Element</td>
             <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Apprentice's Notes</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Lynette</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Lynette</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/17bb0298b7eb29033322249bf7ddb4ba.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Anemo</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2290,7 +2350,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Apprentice's Notes</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
