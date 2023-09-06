@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 05, 2023 19:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 06, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>111</td>
+    <td>112</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>213</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -259,7 +259,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/10/" width="80" />
+            <img src="https://progress-bar.dev/11/" width="80" />
           </td>
         </tr>
         <tr>
@@ -335,7 +335,7 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5 (rate -99)</td>
+    <td>10 (rate -99)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
@@ -344,7 +344,7 @@
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 5 (100%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Adventure: 10 (100%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Daily
       Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
