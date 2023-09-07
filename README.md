@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 06, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 07, 2023 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>112</td>
+    <td>113</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -339,7 +339,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1000 (rate -99)</td>
+    <td>6000 (rate -98)</td>
   </tr>
   <tr>
     <td>Categories</td>
