@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 10, 2023 19:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 11, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>113</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -335,17 +335,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10 (rate -99)</td>
+    <td>30 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6000 (rate -98)</td>
+    <td>14300 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 10 (100%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      Mail: 20 (67%)<br />Adventure: 10 (33%)<br />Events: 0 (0%)<br />Quests: 0
+      (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
