@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 13, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 14, 2023 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>116</td>
+    <td>117</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -189,7 +189,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/4/" width="80" />
+            <img src="https://progress-bar.dev/5/" width="80" />
           </td>
         </tr>
         <tr>
@@ -339,7 +339,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>70550 (rate -86)</td>
+    <td>85550 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -647,7 +647,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Traveling Doctor<br /></td>
+            <td>5 x Berserker<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -727,7 +727,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Adventurer<br />3 x Berserker<br /></td>
+            <td>
+              2 x Adventurer<br />2 x Berserker<br />1 x Traveling Doctor<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -910,11 +912,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
