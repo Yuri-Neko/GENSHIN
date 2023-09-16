@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 15, 2023 19:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 16, 2023 19:16 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -36,11 +36,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>213</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>117</td>
+    <td>118</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>214</td>
+    <td>216</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>410</td>
+    <td>411</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>38</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
