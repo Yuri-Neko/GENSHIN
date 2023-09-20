@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 19, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 20, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -339,14 +339,14 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>363380 (rate -29)</td>
+    <td>372380 (rate -27)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 70 (40%)<br />Adventure: 62 (36%)<br />Mail: 40 (22%)<br />Other:
-      4 (2%)<br />Quests: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss:
-      0 (0%)<br />
+      Events: 70 (40%)<br />Adventure: 62 (36%)<br />Mail: 40 (22%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      4 (2%)<br />
     </td>
   </tr>
 </table>
