@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 24, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 25, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>122</td>
+    <td>124</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>219</td>
+    <td>224</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>18</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>413</td>
+    <td>416</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -189,7 +189,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/6/" width="80" />
+            <img src="https://progress-bar.dev/7/" width="80" />
           </td>
         </tr>
         <tr>
