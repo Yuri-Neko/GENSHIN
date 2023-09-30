@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 29, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 30, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Server</td>
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>10000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -335,18 +335,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3070 (rate 54)</td>
+    <td>3320 (rate 66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1209722 (rate 133)</td>
+    <td>1439297 (rate 178)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1720 (57%)<br />Adventure: 639 (20%)<br />Events: 430 (14%)<br />Daily
-      Activity: 160 (5%)<br />Quests: 100 (3%)<br />Spiral Abyss: 0 (0%)<br />Other:
-      21 (1%)<br />
+      Mail: 1720 (52%)<br />Adventure: 780 (24%)<br />Events: 490 (14%)<br />Daily
+      Activity: 200 (6%)<br />Quests: 100 (3%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      30 (1%)<br />
     </td>
   </tr>
 </table>
@@ -476,7 +476,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -668,6 +668,86 @@
           <tr>
             <td>Level</td>
             <td>40</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Hu Tao</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Hu Tao</h3></th>
+      <th><h3 align="center">Dragon's Bane</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/6cff7996816dee8175a0f44d58a20165.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Crimson Witch of Flames<br />1 x Lavawalker<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Dragon's Bane</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1614,7 +1694,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -1977,7 +2057,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yaoyao</h3></th>
-      <th><h3 align="center">Dragon's Bane</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
     </tr>
     <tr>
       <td>
@@ -1990,7 +2070,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/6cff7996816dee8175a0f44d58a20165.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b2fd56c2685792654b83c15498cc8681.png"
           />
         </p>
       </td>
@@ -2032,15 +2112,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dragon's Bane</td>
+            <td>Beginner's Protector</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2193,6 +2273,86 @@
           <tr>
             <td>Name</td>
             <td>Beginner's Protector</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Diona</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Diona</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/dd940ee465fc6ccf2f11f97951632a45.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Hunter's Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
