@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 01, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 02, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>130</td>
+    <td>131</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -72,11 +72,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>400</td>
+    <td>401</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>470</td>
+    <td>472</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -335,18 +335,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>402 (rate -89)</td>
+    <td>574 (rate -84)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5610 (rate -99)</td>
+    <td>91665 (rate -93)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 400 (99%)<br />Adventure: 2 (1%)<br />Events: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Mail: 400 (70%)<br />Events: 120 (21%)<br />Daily Activity: 40 (7%)<br />Adventure:
+      14 (2%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -747,7 +747,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1402,7 +1402,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -1722,7 +1722,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
