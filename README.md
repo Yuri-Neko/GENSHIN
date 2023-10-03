@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 02, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 03, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>131</td>
+    <td>132</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>234</td>
+    <td>238</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>36</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -76,11 +76,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>472</td>
+    <td>483</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>114</td>
+    <td>115</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -189,7 +189,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/14/" width="80" />
+            <img src="https://progress-bar.dev/16/" width="80" />
           </td>
         </tr>
         <tr>
@@ -335,18 +335,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>574 (rate -84)</td>
+    <td>779 (rate -79)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>91665 (rate -93)</td>
+    <td>148691 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 400 (70%)<br />Events: 120 (21%)<br />Daily Activity: 40 (7%)<br />Adventure:
-      14 (2%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Mail: 420 (54%)<br />Events: 180 (24%)<br />Adventure: 99 (12%)<br />Daily
+      Activity: 80 (10%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -639,7 +639,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
