@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 03, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 04, 2023 19:20 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -36,11 +36,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>228</td>
+    <td>231</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>132</td>
+    <td>133</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>68</td>
+    <td>70</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>42</td>
+    <td>43</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>483</td>
+    <td>487</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -259,7 +259,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/12/" width="80" />
+            <img src="https://progress-bar.dev/13/" width="80" />
           </td>
         </tr>
         <tr>
@@ -287,12 +287,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/41/" width="80" />
+            <img src="https://progress-bar.dev/42/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -335,18 +335,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>779 (rate -79)</td>
+    <td>963 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>148691 (rate -89)</td>
+    <td>374372 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 420 (54%)<br />Events: 180 (24%)<br />Adventure: 99 (12%)<br />Daily
-      Activity: 80 (10%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Mail: 420 (44%)<br />Events: 180 (19%)<br />Daily Activity: 140 (14%)<br />Adventure:
+      141 (14%)<br />Quests: 80 (8%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
+      (1%)<br />
     </td>
   </tr>
 </table>
