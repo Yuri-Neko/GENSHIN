@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 04, 2023 19:20 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 05, 2023 19:20 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td>41</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Server</td>
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>133</td>
+    <td>134</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>89</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -335,17 +335,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>963 (rate -74)</td>
+    <td>1073 (rate -71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>374372 (rate -74)</td>
+    <td>462547 (rate -68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 420 (44%)<br />Events: 180 (19%)<br />Daily Activity: 140 (14%)<br />Adventure:
-      141 (14%)<br />Quests: 80 (8%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
+      Mail: 440 (42%)<br />Events: 240 (22%)<br />Daily Activity: 170 (15%)<br />Adventure:
+      141 (13%)<br />Quests: 80 (7%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
       (1%)<br />
     </td>
   </tr>
@@ -401,10 +401,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              2 x Heart of Depth<br />1 x The Exile<br />1 x Berserker<br />1 x
-              Instructor<br />
-            </td>
+            <td>3 x Heart of Depth<br />2 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -424,7 +421,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -719,7 +716,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2336,7 +2333,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
