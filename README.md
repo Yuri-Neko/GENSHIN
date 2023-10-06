@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 05, 2023 19:20 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 06, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>47</td>
+    <td>48</td>
   </tr>
   <tr>
     <td>Geoculi</td>
@@ -72,11 +72,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>401</td>
+    <td>403</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>487</td>
+    <td>490</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -301,7 +301,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/65/" width="80" />
+            <img src="https://progress-bar.dev/66/" width="80" />
           </td>
         </tr>
         <tr>
@@ -335,17 +335,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1073 (rate -71)</td>
+    <td>1129 (rate -69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>462547 (rate -68)</td>
+    <td>507694 (rate -65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 440 (42%)<br />Events: 240 (22%)<br />Daily Activity: 170 (15%)<br />Adventure:
-      141 (13%)<br />Quests: 80 (7%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
+      Mail: 440 (39%)<br />Events: 280 (25%)<br />Daily Activity: 180 (15%)<br />Adventure:
+      147 (13%)<br />Quests: 80 (7%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
       (1%)<br />
     </td>
   </tr>
