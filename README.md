@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 06, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 07, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -36,11 +36,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>231</td>
+    <td>237</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>134</td>
+    <td>136</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>238</td>
+    <td>244</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>70</td>
+    <td>71</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>18</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>hydroculi</td>
@@ -72,19 +72,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>403</td>
+    <td>411</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>490</td>
+    <td>494</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>115</td>
+    <td>117</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -259,7 +259,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/16/" width="80" />
           </td>
         </tr>
         <tr>
@@ -273,12 +273,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/46/" width="80" />
+            <img src="https://progress-bar.dev/49/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -287,7 +287,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/42/" width="80" />
+            <img src="https://progress-bar.dev/43/" width="80" />
           </td>
         </tr>
         <tr>
@@ -335,17 +335,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1129 (rate -69)</td>
+    <td>1570 (rate -58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>507694 (rate -65)</td>
+    <td>1010433 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 440 (39%)<br />Events: 280 (25%)<br />Daily Activity: 180 (15%)<br />Adventure:
-      147 (13%)<br />Quests: 80 (7%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
+      Mail: 440 (29%)<br />Events: 420 (27%)<br />Daily Activity: 280 (17%)<br />Adventure:
+      278 (17%)<br />Quests: 150 (9%)<br />Spiral Abyss: 0 (0%)<br />Other: 2
       (1%)<br />
     </td>
   </tr>
@@ -556,7 +556,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -724,7 +724,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Crimson Witch of Flames<br />1 x Lavawalker<br /></td>
+            <td>5 x Crimson Witch of Flames<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1567,6 +1567,166 @@
   </table>
 </details>
 <details>
+  <summary><b>Razor</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Razor</h3></th>
+      <th><h3 align="center">Waster Greatsword</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b6d2be6fba2068ea945c08b2319564d6.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Waster Greatsword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Xiangling</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Xiangling</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b2fd56c2685792654b83c15498cc8681.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Beginner's Protector</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Noelle</b></summary>
   <br />
   <table>
@@ -1628,6 +1788,86 @@
           <tr>
             <td>Name</td>
             <td>Waster Greatsword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Diona</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Diona</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/dd940ee465fc6ccf2f11f97951632a45.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Hunter's Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1720,6 +1960,86 @@
           <tr>
             <td>Refinement</td>
             <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Yanfei</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Yanfei</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/4fc472e727daebbc10133272195b31c2.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Apprentice's Notes</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2129,326 +2449,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Razor</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Razor</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b6d2be6fba2068ea945c08b2319564d6.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Waster Greatsword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Xiangling</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Xiangling</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b2fd56c2685792654b83c15498cc8681.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Beginner's Protector</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Diona</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Diona</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/dd940ee465fc6ccf2f11f97951632a45.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Hunter's Bow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Yanfei</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Yanfei</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/4fc472e727daebbc10133272195b31c2.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Apprentice's Notes</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Lynette</b></summary>
   <br />
   <table>
@@ -2485,7 +2485,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Friendship</td>
