@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 09, 2023 19:21 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 10, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>138</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -335,17 +335,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2051 (rate -45)</td>
+    <td>2141 (rate -43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1287660 (rate -12)</td>
+    <td>1354889 (rate -7)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 560 (28%)<br />Mail: 440 (21%)<br />Adventure: 416 (20%)<br />Daily
-      Activity: 340 (16%)<br />Quests: 290 (14%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      Events: 630 (30%)<br />Mail: 440 (21%)<br />Adventure: 416 (19%)<br />Daily
+      Activity: 360 (16%)<br />Quests: 290 (13%)<br />Spiral Abyss: 0 (0%)<br />Other:
       5 (1%)<br />
     </td>
   </tr>
@@ -473,7 +473,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -553,7 +553,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1130,8 +1130,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Traveling Doctor<br />2 x Adventurer<br />1 x Instructor<br />1
-              x Resolution of Sojourner<br />
+              1 x Heart of Depth<br />1 x Wanderer's Troupe<br />1 x
+              Instructor<br />1 x Adventurer<br />1 x Resolution of Sojourner<br />
             </td>
           </tr>
           <tr>
@@ -1400,6 +1400,86 @@
           <tr>
             <td>Refinement</td>
             <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Noelle</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Noelle</h3></th>
+      <th><h3 align="center">Portable Power Saw</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/30148fdad924b6f75ee4edef8ddf0bcf.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Geo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Portable Power Saw</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1716,86 +1796,6 @@
           <tr>
             <td>Level</td>
             <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Noelle</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Noelle</h3></th>
-      <th><h3 align="center">Portable Power Saw</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/30148fdad924b6f75ee4edef8ddf0bcf.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Geo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Portable Power Saw</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
