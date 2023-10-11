@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 10, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 11, 2023 19:20 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>139</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>90</td>
+    <td>91</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -335,24 +335,104 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2141 (rate -43)</td>
+    <td>2271 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1354889 (rate -7)</td>
+    <td>1498773 (rate 2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 630 (30%)<br />Mail: 440 (21%)<br />Adventure: 416 (19%)<br />Daily
-      Activity: 360 (16%)<br />Quests: 290 (13%)<br />Spiral Abyss: 0 (0%)<br />Other:
-      5 (1%)<br />
+      Events: 700 (31%)<br />Mail: 440 (20%)<br />Daily Activity: 420 (18%)<br />Adventure:
+      416 (18%)<br />Quests: 290 (12%)<br />Spiral Abyss: 0 (0%)<br />Other: 5
+      (1%)<br />
     </td>
   </tr>
 </table>
 
 <h2>Characters</h2>
 <details open>
+  <summary><b>Yelan</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Yelan</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/2bc2401bd90c3498393a964df6f2dac0.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>3 x Wanderer's Troupe<br />2 x Heart of Depth<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Warbow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Hu Tao</b></summary>
   <br />
   <table>
@@ -422,86 +502,6 @@
           <tr>
             <td>Level</td>
             <td>80</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Yelan</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/2bc2401bd90c3498393a964df6f2dac0.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>3 x Wanderer's Troupe<br />2 x Heart of Depth<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Favonius Warbow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1732,7 +1732,7 @@
   <table>
     <tr>
       <th><h3 align="center">Xiangling</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Favonius Lance</h3></th>
     </tr>
     <tr>
       <td>
@@ -1745,7 +1745,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b2fd56c2685792654b83c15498cc8681.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/5f02c54c5915bcce0f711b076f47c9df.png"
           />
         </p>
       </td>
@@ -1787,11 +1787,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Beginner's Protector</td>
+            <td>Favonius Lance</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
