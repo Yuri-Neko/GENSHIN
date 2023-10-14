@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 13, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 14, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -36,15 +36,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>243</td>
+    <td>244</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>141</td>
+    <td>142</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>27</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>415</td>
+    <td>416</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -386,7 +386,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1942728 (rate 32)</td>
+    <td>1983728 (rate 35)</td>
   </tr>
   <tr>
     <td>Categories</td>
