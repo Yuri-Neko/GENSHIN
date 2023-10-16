@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 15, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2023 19:20 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>142</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>72</td>
+    <td>74</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>500</td>
+    <td>502</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -287,7 +287,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/43/" width="80" />
+            <img src="https://progress-bar.dev/44/" width="80" />
           </td>
         </tr>
         <tr>
