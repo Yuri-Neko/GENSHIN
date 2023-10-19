@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 18, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 19, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -36,15 +36,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>246</td>
+    <td>251</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>146</td>
+    <td>147</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -72,15 +72,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>417</td>
+    <td>418</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>502</td>
+    <td>503</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>119</td>
+    <td>120</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
 </table>
 
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3719 (rate -1)</td>
+    <td>3966 (rate 5)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2811756 (rate 91)</td>
+    <td>3334796 (rate 127)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (40%)<br />Daily Activity: 680 (19%)<br />Mail: 490 (14%)<br />Adventure:
-      452 (12%)<br />Quests: 290 (7%)<br />Spiral Abyss: 200 (5%)<br />Other:
-      127 (3%)<br />
+      Events: 1480 (38%)<br />Daily Activity: 740 (19%)<br />Adventure: 499
+      (13%)<br />Mail: 510 (12%)<br />Quests: 410 (10%)<br />Spiral Abyss: 200
+      (5%)<br />Other: 127 (3%)<br />
     </td>
   </tr>
 </table>
