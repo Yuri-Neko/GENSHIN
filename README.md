@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 23, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 24, 2023 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>150</td>
+    <td>151</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>121</td>
+    <td>122</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4868 (rate 29)</td>
+    <td>5053 (rate 34)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3696206 (rate 152)</td>
+    <td>3810602 (rate 160)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1580 (33%)<br />Daily Activity: 880 (19%)<br />Adventure: 826
-      (17%)<br />Quests: 640 (13%)<br />Mail: 610 (12%)<br />Spiral Abyss: 200
-      (4%)<br />Other: 132 (2%)<br />
+      Events: 1660 (33%)<br />Daily Activity: 920 (19%)<br />Adventure: 831
+      (17%)<br />Quests: 700 (14%)<br />Mail: 610 (12%)<br />Spiral Abyss: 200
+      (3%)<br />Other: 132 (2%)<br />
     </td>
   </tr>
 </table>
@@ -643,6 +643,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Barbara</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Barbara</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/87cfb60a01d377b362434e99f6b48124.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>5 x Berserker<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>The Widsith</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Eula</b></summary>
   <br />
   <table>
@@ -712,86 +792,6 @@
           <tr>
             <td>Level</td>
             <td>20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Barbara</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Barbara</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/87cfb60a01d377b362434e99f6b48124.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>5 x Berserker<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>The Widsith</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>40</td>
           </tr>
           <tr>
             <td>Refinement</td>
