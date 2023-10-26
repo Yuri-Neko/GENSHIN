@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 25, 2023 19:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 26, 2023 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Server</td>
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -382,18 +382,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5107 (rate 35)</td>
+    <td>5573 (rate 48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3991430 (rate 172)</td>
+    <td>4139073 (rate 182)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1660 (33%)<br />Daily Activity: 960 (19%)<br />Adventure: 845
-      (17%)<br />Quests: 700 (14%)<br />Mail: 610 (12%)<br />Spiral Abyss: 200
-      (3%)<br />Other: 132 (2%)<br />
+      Events: 1740 (32%)<br />Adventure: 1059 (20%)<br />Daily Activity: 1020
+      (19%)<br />Quests: 810 (14%)<br />Mail: 610 (10%)<br />Spiral Abyss: 200
+      (3%)<br />Other: 134 (2%)<br />
     </td>
   </tr>
 </table>
@@ -643,6 +643,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Eula</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Eula</h3></th>
+      <th><h3 align="center">Snow-Tombed Starsilver</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/8b8a73ea0b4c91c4db8ffcbf8f16aa98.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Blizzard Strayer<br />1 x Martial Artist<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Snow-Tombed Starsilver</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Barbara</b></summary>
   <br />
   <table>
@@ -712,86 +792,6 @@
           <tr>
             <td>Level</td>
             <td>40</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Eula</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Eula</h3></th>
-      <th><h3 align="center">Snow-Tombed Starsilver</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/8b8a73ea0b4c91c4db8ffcbf8f16aa98.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Blizzard Strayer<br />1 x Martial Artist<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Snow-Tombed Starsilver</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2300,7 +2300,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
