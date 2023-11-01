@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 31, 2023 19:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 01, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>157</td>
+    <td>158</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -331,69 +331,22 @@
     <td>0</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
-<table>
-  <tr>
-    <td>Season</td>
-    <td>79</td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td>4-3</td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td></td>
-  </tr>
-</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5633 (rate 49)</td>
+    <td>30 (rate -99)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4225348 (rate 188)</td>
+    <td>15000 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1740 (31%)<br />Daily Activity: 1080 (20%)<br />Adventure: 1059
-      (19%)<br />Quests: 810 (15%)<br />Mail: 610 (10%)<br />Spiral Abyss: 200
-      (3%)<br />Other: 134 (2%)<br />
+      Mail: 30 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
