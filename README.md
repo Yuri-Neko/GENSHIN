@@ -1,6 +1,6 @@
 <h1 align="center">Kyou-Chan's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 01, 2023 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 02, 2023 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>158</td>
+    <td>159</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -339,7 +339,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>15000 (rate -99)</td>
+    <td>16073 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
